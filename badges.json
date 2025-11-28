@@ -1,6 +1,11 @@
 {
   "badges": [
     {
+      "user_id": 7517909935,
+      "emoji_id": 5215340901626306984,
+      "text_template": "**{user}** является разработчиком **MorliBadges.**"
+    },
+    {
       "user_id": 1309481150,
       "emoji_id": 5460646047476895138,
       "text_template": "**{user}** мега пачка чипсов русская картошка"
@@ -11,9 +16,9 @@
       "text_template": "**{user}** uses arch btw"
     },
     {
-      "user_id": 7517909935,
+      "chat_id": 3461437904,
       "emoji_id": 5215340901626306984,
-      "text_template": "**{user}** является разработчиком **MorliBadges.**"
+      "text_template": "**{chat}** является официальным ресурсом **MorliBadges.**"
     }
   ]
 }
