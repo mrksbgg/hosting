@@ -1,22 +1,19 @@
 {
   "badges": [
     {
-      "id": "user1",
       "user_id": 7517909935,
       "emoji_id": 5393230552876742138,
-      "text_template": "**{user_name}** поддержал **ЭКСТЕРАГРАМ** и стал мега крутым"
+      "text_template": "**{user}** поддержал **ЭКСТЕРАГРАМ** и стал мега крутым"
     },
     {
-      "id": "user2",
       "user_id": 1309481150,
       "emoji_id": 5460646047476895138,
-      "text_template": "**{user_name}** мега пачка чипсов русская картошка"
+      "text_template": "**{user}** мега пачка чипсов русская картошка"
     },
     {
-      "id": "user3",
       "user_id": 7520613247,
       "emoji_id": 5301033874367717956,
-      "text_template": "**{user_name}** uses arch btw"
+      "text_template": "**{user}** uses arch btw"
     }
   ]
 }
