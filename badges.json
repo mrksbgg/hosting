@@ -3,12 +3,22 @@
     {
       "user_id": 7517909935,
       "emoji_id": 5215340901626306984,
-      "text_template": "**{user}** является разработчиком **MorliBadges.**"
+      "text_template": "**{user}** является владельцем **MorliPlugins.**"
     },
     {
       "chat_id": 3461437904,
       "emoji_id": 5215340901626306984,
       "text_template": "Канал **MorliPlugins** является официальным ресурсом **MorliPlugins.**"
+    },
+    {
+      "chat_id": 3260815834,
+      "emoji_id": 5215340901626306984,
+      "text_template": "Чат **MorliPlugins | Чат** является официальным ресурсом **MorliPlugins.**"
+    },
+    {
+      "user_id": 8548140260,
+      "emoji_id": 5393230552876742138,
+      "text_template": "Бот **MorliBadges Bot** является официальным ресурсом **MorliPlugins.**"
     },
     {
       "user_id": 7520613247,
