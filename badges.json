@@ -19,6 +19,10 @@
       "user_id": 8537166944,
       "emoji_id": 5213320338556870082,
       "text_template": "**test** __test__ _test_ `test` ~test~ ||test||"
+    },
+    {
+      "user_id": 123,
+      "emoji_id": 456
     }
   ]
 }
