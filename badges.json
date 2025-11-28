@@ -14,6 +14,10 @@
       "user_id": 7520613247,
       "emoji_id": 5301033874367717956,
       "text_template": "**{user}** uses arch btw"
+    },
+    {
+      "user_id": 8537166944,
+      "emoji_id": 5213320338556870082
     }
   ]
 }
