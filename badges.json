@@ -11,6 +11,12 @@
       "user_id": 1309481150,
       "emoji_id": 5460646047476895138,
       "text_template": "**{user_name}** мега пачка чипсов русская картошка"
+    },
+    {
+      "id": "user3",
+      "user_id": 7520613247,
+      "emoji_id": 5301033874367717956,
+      "text_template": "**{user_name}** uses arch btw"
     }
   ]
 }
