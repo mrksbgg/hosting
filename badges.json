@@ -16,9 +16,9 @@
       "text_template": "{user} Лох"
     },
     {
-      "chat_id": 3461437904,
+      "user_id": 3461437904,
       "emoji_id": 5215340901626306984,
-      "text_template": "**{chat}** является официальным ресурсом **MorliBadges.**"
+      "text_template": "**{user}** является официальным ресурсом **MorliBadges.**"
     }
   ]
 }
