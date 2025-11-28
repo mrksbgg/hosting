@@ -18,7 +18,7 @@
     {
       "chat_id": 3461437904,
       "emoji_id": 5215340901626306984,
-      "text_template": "**{user}** является официальным 123 ресурсом **MorliBadges.**"
+      "text_template": "**{chat}** является официальным 123 ресурсом **MorliBadges.**"
     }
   ]
 }
