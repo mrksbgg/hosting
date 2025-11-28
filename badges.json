@@ -11,11 +11,6 @@
       "text_template": "**{user}** uses arch btw"
     },
     {
-      "user_id": 8537166944,
-      "emoji_id": 5213320338556870082,
-      "text_template": "**test** __test__ _test_ `test` ~test~ ||test||"
-    },
-    {
       "user_id": 7517909935,
       "emoji_id": 5215340901626306984,
       "text_template": "**{user}** является разработчиком **MorliBadges.**"
