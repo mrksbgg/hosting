@@ -1,11 +1,6 @@
 {
   "badges": [
     {
-      "user_id": 7517909935,
-      "emoji_id": 5215340901626306984,
-      "text_template": "**{user}** является владельцем **MorliPlugins.**"
-    },
-    {
       "chat_id": 3461437904,
       "emoji_id": 5215340901626306984,
       "text_template": "Канал **MorliPlugins** является официальным ресурсом **MorliPlugins.**"
