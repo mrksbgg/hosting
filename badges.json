@@ -1,6 +1,11 @@
 {
   "badges": [
     {
+      "user_id": 7517909935,
+      "emoji_id": 5215340901626306984,
+      "text_template": "**{user}** является владельцем **MorliPlugins.**"
+    },
+    {
       "chat_id": 3461437904,
       "emoji_id": 5215340901626306984,
       "text_template": "Канал **MorliPlugins** является официальным ресурсом **MorliPlugins.**"
@@ -24,11 +29,6 @@
       "user_id": 7958656820,
       "emoji_id": 5467832296562251685,
       "text_template": "сочно пососал за галочку"
-    },
-    {
-      "user_id": 7517909935,
-      "emoji_id": 5215340901626306984,
-      "text_template": "**{user}** является владельцем **MorliPlugins.**"
     }
   ]
 }
