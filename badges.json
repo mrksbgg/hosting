@@ -2,22 +2,22 @@
   "badges": [
     {
       "user_id": 7517909935,
-      "emoji_id": 5215340901626306984,
+      "emoji_id": 5359407509327085568,
       "text_template": "**{user}** является владельцем **MorliPlugins.**"
     },
     {
       "chat_id": 3461437904,
-      "emoji_id": 5215340901626306984,
+      "emoji_id": 5359407509327085568,
       "text_template": "Канал **MorliPlugins** является официальным ресурсом **MorliPlugins.**"
     },
     {
       "chat_id": 3260815834,
-      "emoji_id": 5215340901626306984,
+      "emoji_id": 5359407509327085568,
       "text_template": "Чат **MorliPlugins | Чат** является официальным ресурсом **MorliPlugins.**"
     },
     {
       "user_id": 8548140260,
-      "emoji_id": 5393230552876742138,
+      "emoji_id": 5359407509327085568,
       "text_template": "Бот **MorliBadges Bot** является официальным ресурсом **MorliPlugins.**"
     },
     {
@@ -33,7 +33,7 @@
     {
       "user_id": 8574072636,
       "emoji_id": 5228879218363872764,
-      "text_template": "**{user}** возможно разработчик **MorliBadges.**"
+      "text_template": "КИСЛИНКА"
     },
     {
       "user_id": 1827648787,
