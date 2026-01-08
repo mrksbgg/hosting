@@ -2,52 +2,52 @@
   "badges": [
     {
       "user_id": 7517909935,
-      "emoji_id": 5447155477890759000,
-      "text_template": "hello wrlod"
+      "emoji_id": 5359407509327085568,
+      "text_template": "**{user}** является владельцем **MorliPlugins.**"
     },
     {
       "chat_id": 3461437904,
-      "emoji_id": 5359407509327086000,
+      "emoji_id": 5359407509327085568,
       "text_template": "Канал **MorliPlugins** является официальным ресурсом **MorliPlugins.**"
     },
     {
       "chat_id": 3260815834,
-      "emoji_id": 5359407509327086000,
+      "emoji_id": 5359407509327085568,
       "text_template": "Чат **MorliPlugins | Чат** является официальным ресурсом **MorliPlugins.**"
     },
     {
       "user_id": 8548140260,
-      "emoji_id": 5359407509327086000,
+      "emoji_id": 5359407509327085568,
       "text_template": "Бот **MorliBadges Bot** является официальным ресурсом **MorliPlugins.**"
     },
     {
       "user_id": 7520613247,
-      "emoji_id": 5257976513692719000,
+      "emoji_id": 5257976513692719580,
       "text_template": "{user} Лох"
     },
     {
       "user_id": 7958656820,
-      "emoji_id": 5467832296562252000,
+      "emoji_id": 5467832296562251685,
       "text_template": "сочно пососал за галочку"
     },
     {
       "user_id": 8574072636,
-      "emoji_id": 5291970484055853000,
+      "emoji_id": 5291970484055853104,
       "text_template": "love you"
     },
     {
       "user_id": 1827648787,
-      "emoji_id": 5434138398384201000,
+      "emoji_id": 5434138398384200434,
       "text_template": ":steamhappy:"
     },
     {
       "user_id": 272586250,
-      "emoji_id": 5334562996125459000,
+      "emoji_id": 5334562996125459230,
       "text_template": "Тот самый Мысливец"
     },
     {
       "user_id": 1496094949,
-      "emoji_id": 5296673868381955000,
+      "emoji_id": 5296673868381954776,
       "text_template": "Рофлан ебало"
     }
   ]
